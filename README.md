@@ -1,105 +1,107 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/freerouting/freerouting/master/design/social_preview/freerouting_social_preview_1280x960_v2.png" alt="Freerouting" title="Freerouting" align="center">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/freerouting/freerouting/master/design/social_preview/freerouting_social_preview_1280x960_v2.png"><img src="https://raw.githubusercontent.com/freerouting/freerouting/master/design/social_preview/freerouting_social_preview_1280x960_v2.png" alt="自由路由" title="自由路由" align="center" style="max-width: 100%;"></a>
 </p>
-<h1 align="center">Freerouting</h1>
-<h5 align="center">Freerouting is an advanced autorouter for all PCB programs that support the standard Specctra or Electra DSN interface.</h5>
-
-<p align="center">
-    <a href="https://github.com/freerouting/freerouting/releases"><img src="https://img.shields.io/github/v/release/freerouting/freerouting" alt="Release version" /></a>
-    <img src="https://img.shields.io/github/downloads/freerouting/freerouting/v1.9.0/total" alt="Downloads"/>
-    <img src="https://img.shields.io/github/downloads/freerouting/freerouting/total" alt="Downloads"/>
-    <a href="LICENSE"><img src="https://img.shields.io/github/license/freerouting/freerouting" alt="License"/></a>
+<div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自由路由</font></font></h1><a id="user-content-freerouting" class="anchor" aria-label="永久链接：自由路由" href="#freerouting"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h5 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Freerouting 是一款先进的自动布线器，适用于所有支持标准 Specctra 或 Electra DSN 接口的 PCB 程序。</font></font></h5><a id="user-content-freerouting-is-an-advanced-autorouter-for-all-pcb-programs-that-support-the-standard-specctra-or-electra-dsn-interface" class="anchor" aria-label="永久链接：Freerouting 是一种高级自动布线器，适用于所有支持标准 Specctra 或 Electra DSN 接口的 PCB 程序。" href="#freerouting-is-an-advanced-autorouter-for-all-pcb-programs-that-support-the-standard-specctra-or-electra-dsn-interface"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto">
+    <a href="https://github.com/freerouting/freerouting/releases"><img src="https://camo.githubusercontent.com/c36a940376e0a37ac4a749627adfe4cb1f670ddee6637690e84b35f70aa01157/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f66726565726f7574696e672f66726565726f7574696e67" alt="发布版本" data-canonical-src="https://img.shields.io/github/v/release/freerouting/freerouting" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ee3d3327bc9d73d4d5c4541c60efee7d8e00aab2b4e47f2d2db445f5ac0be5c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f66726565726f7574696e672f66726565726f7574696e672f76312e392e302f746f74616c"><img src="https://camo.githubusercontent.com/0ee3d3327bc9d73d4d5c4541c60efee7d8e00aab2b4e47f2d2db445f5ac0be5c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f66726565726f7574696e672f66726565726f7574696e672f76312e392e302f746f74616c" alt="下载" data-canonical-src="https://img.shields.io/github/downloads/freerouting/freerouting/v1.9.0/total" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/73cd5e4a39c6ecf797d404f4a45a5558b8479f422eb2c8c88682608bc0fc7803/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f66726565726f7574696e672f66726565726f7574696e672f746f74616c"><img src="https://camo.githubusercontent.com/73cd5e4a39c6ecf797d404f4a45a5558b8479f422eb2c8c88682608bc0fc7803/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f66726565726f7574696e672f66726565726f7574696e672f746f74616c" alt="下载" data-canonical-src="https://img.shields.io/github/downloads/freerouting/freerouting/total" style="max-width: 100%;"></a>
+    <a href="/freerouting/freerouting/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/37e51f2c34e5b05c9fdc22442c342afc76de2840b6ae3ec86091faeec1786904/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f66726565726f7574696e672f66726565726f7574696e67" alt="执照" data-canonical-src="https://img.shields.io/github/license/freerouting/freerouting" style="max-width: 100%;"></a>
 </p>
-
-<h3 align="center">:point_right: This project needs JAVA and UI/UX volunteers! Contact @andrasfuchs for details! :point_left:</h3>
-
-<br/>
-<br/>
-
-[Installers for Windows and Linux can be downloaded here.](https://github.com/freerouting/freerouting/releases)
-
-## Introduction
-
-This software can be used together with all host PCB design software systems containing a standard Specctra or Electra DSN interface. It imports .DSN files generated by the Specctra interface of the host system and exports .SES Specctra session files.
-
-Although the software can be used for manual routing in 90 degree, 45 degree and free angle modes, it's main focus is on autorouting.
-
-### Getting started
-
-You can run Freerouting as a standalone application.
-
-1) After launching freerouting.jar, a window appears prompting you to select your exported .DSN design file.
-![image](https://user-images.githubusercontent.com/910321/167868226-f046da72-357d-44f6-ba0d-ee27d34725c1.png)
-
-2) After opening a design you can start the autorouter with the button in the toolbar on top of the board window.
-![image](https://user-images.githubusercontent.com/910321/167868601-1510f75d-73a2-4321-ac03-2dd4a91732eb.png)
-
-3) While autorouter is running you can follow the progress both visually in the board editor and numerically in the footer.
-![image](https://user-images.githubusercontent.com/910321/167869140-6101e9c2-d58d-48fd-b245-6a00225df042.png)
-
-4) You are going to have a short summary when it is finished.
-![image](https://user-images.githubusercontent.com/910321/167869313-40cfa1c7-d896-40cd-b485-53da0139562a.png)
-
-5) You can now save your routed board as a .SES file in the File / Export Specctra Session File menu.
-![image](https://user-images.githubusercontent.com/910321/167869579-fe40c3ff-09ce-4687-9b78-142706cfc342.png)
-
-If you use [KiCad](#additional-steps-for-users-of-kicad), [Autodesk EAGLE](#additional-steps-for-users-of-autodesk-eagle), [Target3001!](#additional-steps-for-users-of-target-3001) or [pcb-rnd](#additional-steps-for-users-of-pcb-rnd), [click here for their integrations](/docs/integrations.md).
-
-## Using the command line arguments
-
-Freerouter was designed as a GUI program, but it also can function as a command line tool. Typically you would have an input file (e.g. Specctra DSN) that you exported from you EDA (e.g. KiCad). If this file has unconnected routes, you would want to wire those with autorouter, and save the result in a format that you can then import back into your EDA.
-
-The following command line arguments are supported by freerouter:
-
-* -de [design input file]: loads up a Specctra .dsn file at startup.
-* -di [design input directory]: if the GUI is used, this sets the default folder for the open design dialogs.
-* -dr [design rules file]: reads the rules from a previously saved .rules file.
-* -do [design output file]: saves a Specctra board (.dsn), a Specctra session file (.ses) or Eagle session script file (.scr) when the routing is finished.
-* -mp [number of passes]: sets the upper limit of the number of auto-router passes that will be performed.
-* -l [language]: "en" for English, "de" for German, "zh" for Simplified Chinese, otherwise it's the system default. English is set by default for unsupported languages.
-* -host [host_name host_version]: sets the name of the host process, if it was run as an external library or plugin.
-* -mt [number of threads]: sets thread pool size for route optimization. The default is one less than the number of logical processors in the system. Set it to 0 to disable route optimization.
-* -oit [percentage]: stops the route optimizer if the improvement drops below a certain percentage threshold per pass. Default is 0.1%, and `-oit 0` means to continue improving until it is interrupted by the user or it runs out of options to test.
-* -us [greedy | global | hybrid]: sets board updating strategy for route optimization: greedy, global optimal or hybrid. The default is greedy. When hybrid is selected, another option "hr" specifies hybrid ratio.
-* -hr [m:n]: sets hybrid ratio in the format of #_global_optiomal_passes:#_prioritized_passes. The default is 1:1. It's only effective when hybrid strategy is selected.
-* -is [sequential | random | prioritized]: sets item selection strategy for route optimization: sequential, random, prioritized. The default is prioritized. Prioritied strategy selects items based on scores calculated in previous round.
-* -inc [net class names, separated by commas]: auto-router ignores the listed net classes, eg. `-inc GND,VCC` will not try to wire components that are either in the "GND" or in the "VCC" net class.
-* -im: saves intermediate steps in version-specific binary format. This allows to user to resume the interrupted optimization from the last checkpoint. Turned off by default.
-* -dct [seconds]: dialog confirmation timeout. Sets the timeout of the dialogs that start a default action in x seconds. 20 seconds by default.
-* -da: disable anonymous analytics.
-* -dl: disable logging.
-* -help: shows help.
-
-A complete command line looks something like this if your are using PowerShell on Windows:
-
-```powershell
-java.exe -jar freerouting-1.9.0.jar -de MyBoard.dsn -do MyBoard.ses -mp 100 -dr MyBoard.rules
-```
-
-This would read the _MyBoard.dsn_ file, do the auto-routing with the parameters defined in _MyBoard.rules_ for the maximum of 100 passes, and then save the result into the _MyBoard.ses_ file.
-
-
-## Running Freerouting using Java JRE
-
-There are only installers for Windows x64 and Linux x64. Fortunatelly though the platform independent .JAR files can be run on the other systems, if the matching Java runtime is installed.
-
-You will need the following steps to make it work:
-1. Get the current JAR release from our [Releases page](https://github.com/freerouting/freerouting/releases)
-2. Install [Java JRE](https://adoptium.net/temurin/releases/)
-    * Select your operating system and architecture
-    * Select `JRE` as package type
-    * Select `17` as version
-4. Run the downloaded JAR file using the installed java
-
-```powershell
-java -jar freerouting-1.9.0.jar
-```
-
-(macOS: please note that you can't start Freerouting from the Mac Finder, you must use the Mac Terminal instead!)
-
-
-## Contributing
-
-We ❤️ all our contributors; this project wouldn’t be what it is without you!
-
-If you want to help out, please consider replying to [issues](https://github.com/freerouting/freerouting/issues), creating new ones, or even send your fixes and improvements as [pull requests](https://github.com/freerouting/freerouting/pulls). [Our developer documention](/docs/developer.md) can help you with the technicalities.
+<div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉 此项目需要JAVA和UI/UX志愿者！联系@andrasfuchs了解详情！ 👈</font></font></h3><a id="user-content-point_right-this-project-needs-java-and-uiux-volunteers-contact-andrasfuchs-for-details-point_left" class="anchor" aria-label="永久链接: :point_right: 该项目需要 JAVA 和 UI/UX 志愿者！联系@andrasfuchs了解详情！ :左点:" href="#point_right-this-project-needs-java-and-uiux-volunteers-contact-andrasfuchs-for-details-point_left"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<br>
+<br>
+<p dir="auto"><a href="https://github.com/freerouting/freerouting/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows 和 Linux 的安装程序可以在此处下载。</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">介绍</font></font></h2><a id="user-content-introduction" class="anchor" aria-label="永久链接：简介" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该软件可与所有包含标准 Specctra 或 Electra DSN 接口的主机 PCB 设计软件系统一起使用。它导入由主机系统的 Specctra 接口生成的 .DSN 文件并导出 .SES Specctra 会话文件。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虽然该软件可以用于90度、45度和自由角度模式下的手动布线，但它的主要重点是自动布线。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h3><a id="user-content-getting-started" class="anchor" aria-label="永久链接：开始使用" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以将 Freerouting 作为独立应用程序运行。</font></font></p>
+<ol dir="auto">
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动 freerouting.jar 后，会出现一个窗口，提示您选择导出的 .DSN 设计文件。
+</font></font><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/910321/167868226-f046da72-357d-44f6-ba0d-ee27d34725c1.png"><img src="https://user-images.githubusercontent.com/910321/167868226-f046da72-357d-44f6-ba0d-ee27d34725c1.png" alt="图像" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开设计后，您可以使用电路板窗口顶部工具栏中的按钮启动自动布线器。
+</font></font><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/910321/167868601-1510f75d-73a2-4321-ac03-2dd4a91732eb.png"><img src="https://user-images.githubusercontent.com/910321/167868601-1510f75d-73a2-4321-ac03-2dd4a91732eb.png" alt="图像" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">当自动布线器运行时，您可以在板编辑器中直观地跟踪进度，并在页脚中以数字方式跟踪进度。
+</font></font><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/910321/167869140-6101e9c2-d58d-48fd-b245-6a00225df042.png"><img src="https://user-images.githubusercontent.com/910321/167869140-6101e9c2-d58d-48fd-b245-6a00225df042.png" alt="图像" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完成后您将得到一个简短的摘要。
+</font></font><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/910321/167869313-40cfa1c7-d896-40cd-b485-53da0139562a.png"><img src="https://user-images.githubusercontent.com/910321/167869313-40cfa1c7-d896-40cd-b485-53da0139562a.png" alt="图像" style="max-width: 100%;"></a></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在，您可以在“文件/导出 Specctra 会话文件”菜单中将布线板另存为 .SES 文件。
+</font></font><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/910321/167869579-fe40c3ff-09ce-4687-9b78-142706cfc342.png"><img src="https://user-images.githubusercontent.com/910321/167869579-fe40c3ff-09ce-4687-9b78-142706cfc342.png" alt="图像" style="max-width: 100%;"></a></p>
+</li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您使用</font></font><a href="#additional-steps-for-users-of-kicad"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KiCad</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="#additional-steps-for-users-of-autodesk-eagle"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autodesk EAGLE</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="#additional-steps-for-users-of-target-3001"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Target3001！</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="#additional-steps-for-users-of-pcb-rnd"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pcb-rnd</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，</font></font><a href="/freerouting/freerouting/blob/master/docs/integrations.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">单击此处了解其集成</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用命令行参数</font></font></h2><a id="user-content-using-the-command-line-arguments" class="anchor" aria-label="永久链接：使用命令行参数" href="#using-the-command-line-arguments"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Freerouter 被设计为 GUI 程序，但它也可以用作命令行工具。通常，您会有一个从 EDA（例如 KiCad）导出的输入文件（例如 Specctra DSN）。如果此文件具有未连接的路由，您可能需要使用自动布线器连接这些路由，并将结果保存为随后可以导入回 EDA 的格式。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">freerouter 支持以下命令行参数：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-de [设计输入文件]：在启动时加载 Specctra .dsn 文件。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-di [设计输入目录]：如果使用 GUI，则设置打开的设计对话框的默认文件夹。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-dr [设计规则文件]：从先前保存的.rules 文件中读取规则。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-do [设计输出文件]：布线完成后保存 Specctra 板 (.dsn)、Specctra 会话文件 (.ses) 或 Eagle 会话脚本文件 (.scr)。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-mp [传递次数]：设置将执行的自动路由器传递次数的上限。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-l [语言]：“en”为英语，“de”为德语，“zh”为简体中文，否则为系统默认值。对于不支持的语言，默认设置为英语。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-host [host_name host_version]：设置主机进程的名称（如果它作为外部库或插件运行）。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-mt [线程数]：设置用于路由优化的线程池大小。默认值比系统中逻辑处理器的数量少 1。将其设置为 0 以禁用路由优化。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-oit [百分比]：如果每次传递的改进低于某个百分比阈值，则停止路由优化器。默认值为 0.1%，</font></font><code>-oit 0</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">意味着继续改进，直到被用户中断或用完可供测试的选项。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-us [贪婪|全球| [hybrid]：设置路由优化的棋盘更新策略：贪婪、全局最优或混合。默认是贪婪的。当选择混合时，另一个选项“hr”指定混合比率。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-hr [m:n]：设置混合比例，格式为#_global_optiomal_passes:#_prioritized_pa&ZeroWidthSpace;&ZeroWidthSpace;sses。默认值为 1:1。仅当选择混合策略时才有效。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-是[顺序|随机| priorized]：设置路径优化的项目选择策略：顺序、随机、优先。默认优先。优先策略根据上一轮计算的分数选择项目。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-inc [网络类名称，以逗号分隔]：自动路由器忽略列出的网络类，例如。</font></font><code>-inc GND,VCC</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不会尝试连接“GND”或“VCC”网络类中的组件。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-im：以特定于版本的二进制格式保存中间步骤。这允许用户从上一个检查点恢复中断的优化。默认关闭。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-dct [秒]：对话框确认超时。设置在 x 秒内启动默认操作的对话框的超时时间。默认 20 秒。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-da：禁用匿名分析。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-dl：禁用日志记录。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">-help：显示帮助。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您在 Windows 上使用 PowerShell，完整的命令行如下所示：</font></font></p>
+<div class="highlight highlight-source-powershell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c1">java.exe</span> <span class="pl-k">-</span>jar freerouting<span class="pl-k">-</span><span class="pl-c1">1.9</span>.<span class="pl-c1">0.</span>jar <span class="pl-k">-</span>de MyBoard.dsn <span class="pl-k">-</span>do MyBoard.ses <span class="pl-k">-</span>mp <span class="pl-c1">100</span> <span class="pl-k">-</span>dr MyBoard.rules</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="java.exe -jar freerouting-1.9.0.jar -de MyBoard.dsn -do MyBoard.ses -mp 100 -dr MyBoard.rules" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这将读取</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MyBoard.dsn文件，使用</font></font></em><font style="vertical-align: inherit;"></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MyBoard.rules</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中定义的参数进行自动布线，</font><font style="vertical-align: inherit;">最多 100 次，然后将结果保存到</font></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MyBoard.ses</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件中。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Java JRE 运行自由路由</font></font></h2><a id="user-content-running-freerouting-using-java-jre" class="anchor" aria-label="永久链接：使用 Java JRE 运行自由路由" href="#running-freerouting-using-java-jre"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仅提供适用于 Windows x64 和 Linux x64 的安装程序。幸运的是，如果安装了匹配的 Java 运行时，独立于平台的 .JAR 文件可以在其他系统上运行。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您需要执行以下步骤才能使其正常工作：</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><a href="https://github.com/freerouting/freerouting/releases"><font style="vertical-align: inherit;">从我们的发布页面</font></a><font style="vertical-align: inherit;">获取当前的 JAR 版本</font></font><a href="https://github.com/freerouting/freerouting/releases"><font style="vertical-align: inherit;"></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font><a href="https://adoptium.net/temurin/releases/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Java JRE</font></font></a>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选择您的操作系统和架构</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选择</font></font><code>JRE</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包裹类型</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选择</font></font><code>21</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">版本</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用安装的 java 运行下载的 JAR 文件</font></font></li>
+</ol>
+<div class="highlight highlight-source-powershell notranslate position-relative overflow-auto" dir="auto"><pre>java <span class="pl-k">-</span>jar freerouting<span class="pl-k">-</span><span class="pl-c1">1.9</span>.<span class="pl-c1">0.</span>jar</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="java -jar freerouting-1.9.0.jar" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（macOS：请注意，您无法从 Mac Finder 启动 Freerouting，必须使用 Mac 终端！）</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们❤️所有贡献者；如果没有你，这个项目就不会是现在这个样子！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想提供帮助，请考虑回复</font></font><a href="https://github.com/freerouting/freerouting/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、创建新问题，甚至将您的修复和改进作为</font></font><a href="https://github.com/freerouting/freerouting/pulls"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拉取请求</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发送。</font></font><a href="/freerouting/freerouting/blob/master/docs/developer.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的开发人员文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可以帮助您解决技术问题。</font></font></p>
+</article></div>
